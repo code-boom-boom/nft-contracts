@@ -1,0 +1,9 @@
+.env
+.openzeppelin/dev*.*
+node_modules
+build
+*privatekey*.*
+test
+
+artifacts
+cache
